@@ -1,0 +1,10 @@
+D:\quangsonk2e\code\QLCaFe_.net\test\bin\Debug\test.exe
+D:\quangsonk2e\code\QLCaFe_.net\test\bin\Debug\test.pdb
+D:\quangsonk2e\code\QLCaFe_.net\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\quangsonk2e\code\QLCaFe_.net\test\obj\Debug\test.exe
+D:\quangsonk2e\code\QLCaFe_.net\test\obj\Debug\test.pdb
+E:\quangsonk2e\code\QLCaFe_.net\test\bin\Debug\test.exe
+E:\quangsonk2e\code\QLCaFe_.net\test\bin\Debug\test.pdb
+E:\quangsonk2e\code\QLCaFe_.net\test\obj\Debug\test.exe
+E:\quangsonk2e\code\QLCaFe_.net\test\obj\Debug\test.pdb
+E:\quangsonk2e\code\QLCaFe_.net\test\obj\Debug\test.csprojResolveAssemblyReference.cache

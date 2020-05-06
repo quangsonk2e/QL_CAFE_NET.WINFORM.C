@@ -1,0 +1,13 @@
+C:\xampp\htdocs\Net\QLCaFe_.net\DTO_Cafe\bin\Debug\DTO_Cafe.dll
+C:\xampp\htdocs\Net\QLCaFe_.net\DTO_Cafe\bin\Debug\DTO_Cafe.pdb
+C:\xampp\htdocs\Net\QLCaFe_.net\DTO_Cafe\obj\Debug\DTO_Cafe.dll
+C:\xampp\htdocs\Net\QLCaFe_.net\DTO_Cafe\obj\Debug\DTO_Cafe.pdb
+E:\quangsonk2e\code\QLCaFe_.net\DTO_Cafe\bin\Debug\DTO_Cafe.dll
+E:\quangsonk2e\code\QLCaFe_.net\DTO_Cafe\bin\Debug\DTO_Cafe.pdb
+E:\quangsonk2e\code\QLCaFe_.net\DTO_Cafe\obj\Debug\DTO_Cafe.dll
+E:\quangsonk2e\code\QLCaFe_.net\DTO_Cafe\obj\Debug\DTO_Cafe.pdb
+D:\quangsonk2e\code\QLCaFe_.net\DTO_Cafe\bin\Debug\DTO_Cafe.dll
+D:\quangsonk2e\code\QLCaFe_.net\DTO_Cafe\bin\Debug\DTO_Cafe.pdb
+D:\quangsonk2e\code\QLCaFe_.net\DTO_Cafe\obj\Debug\DTO_Cafe.dll
+D:\quangsonk2e\code\QLCaFe_.net\DTO_Cafe\obj\Debug\DTO_Cafe.pdb
+D:\quangsonk2e\code\QLCaFe_.net\DTO_Cafe\obj\Debug\DTO_Cafe.csprojResolveAssemblyReference.cache
